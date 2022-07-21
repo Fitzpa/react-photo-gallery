@@ -1,5 +1,5 @@
 {
-  "name": "react-photo-gallery",
+  "name": "react-photo-gallery-test",
   "version": "8.0.0",
   "description": "Responsive Justified React Image Gallery Component",
   "main": "dist/react-photo-gallery.umd.js",
@@ -8,15 +8,15 @@
     "/dist",
     "index.d.ts"
   ],
-  "author": "Sandra Gonzales",
+  "author": "Fitzpa",
   "license": "MIT",
-  "homepage": "https://github.com/neptunian/react-photo-gallery",
+  "homepage": "https://github.com/Fitzpa/react-photo-gallery",
   "repository": {
     "type": "git",
-    "url": "https://github.com/neptunian/react-photo-gallery.git"
+    "url": "https://github.com/Fitzpa/react-photo-gallery.git"
   },
   "bugs": {
-    "url": "https://github.com/neptunian/react-photo-gallery/issues"
+    "url": "https://github.com/Fitzpa/react-photo-gallery/issues"
   },
   "dependencies": {
     "prop-types": "~15.7.2",
